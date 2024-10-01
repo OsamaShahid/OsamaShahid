@@ -13,7 +13,7 @@ A passionate full-stack engineer with expertise in Angular, React, Node.js, Nest
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 
 ## 📊 GitHub Stats:
-![Osama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OsamaShahid&show_icons=true&theme=radical)
+![Osama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OsamaShahid&show_icons=true&count_private=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaShahid&layout=compact&theme=radical)
 
