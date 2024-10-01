@@ -28,7 +28,7 @@ A passionate full-stack engineer with expertise in Angular, React, Node.js, Nest
 </picture>
 
 <picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OsamaShahid&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OsamaShahid&show_icons=true&theme=dark" alt="languages graph"  />
 </picture>
 
 ###
