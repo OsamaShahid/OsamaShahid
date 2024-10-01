@@ -14,7 +14,7 @@ A passionate full-stack engineer with expertise in Angular, React, Node.js, Nest
 ## 📊 GitHub Stats:
 
 
-| <a href="https://github.com/OsamaShahid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=OsamaShahid&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Osamas's github stats" /></a> | <a href="https://github.com/OsamaShahid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaShahid&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/OsamaShahid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=OsamaShahid&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&theme=dark" alt="Osamas's github stats" /></a> | <a href="https://github.com/OsamaShahid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaShahid&layout=compact&theme=buefy&hide_border=true&theme=dark" /></a> |
 | ------------- | ------------- |
 
 
