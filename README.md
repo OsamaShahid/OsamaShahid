@@ -13,9 +13,13 @@ A passionate full-stack engineer with expertise in Angular, React, Node.js, Nest
 
 ## 📊 GitHub Stats:
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
-| <a href="https://github.com/OsamaShahid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=OsamaShahid&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Osamas's github stats" /></a> | <a href="https://github.com/OsamaShahid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaShahid&theme=dark&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
+ [![My github stats](https://bad-apple-github-readme.vercel.app/api?username=OsamaShahid&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=dark&title_color=00b3ff)](#)
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=OsamaShahid&layout=compact&count_private=true&theme=dark&title_color=00b3ff)](#)
+
+[![My current streak](https://streak-stats.demolab.com/?user=OsamaShahid&count_private=true&theme=dark&title_color=00b3ff)](#)
 
 
 ## 📫 Connect with me:
